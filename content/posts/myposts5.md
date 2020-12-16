@@ -1,10 +1,4 @@
 ---
-title: "Myposts5"
-date: 2020-12-16T11:28:06+02:00
-draft: true
----
-
----
 title: "The Museum of Riga History and Navigation PART 2"
 date: 2020-12-13T00:37:11+02:00
 draft: true
